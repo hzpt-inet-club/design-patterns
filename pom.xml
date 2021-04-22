@@ -22,6 +22,7 @@
     <module>a11-flyweight-pattern</module>
       <module>a12-proxy-pattern</module>
     <module>a13-chain-responsibility-model</module>
+      <module>a14-command-mode</module>
   </modules>
 
   <name>maven-parent</name>
