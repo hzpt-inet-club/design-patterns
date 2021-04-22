@@ -23,6 +23,7 @@
       <module>a12-proxy-pattern</module>
     <module>a13-chain-responsibility-model</module>
       <module>a14-command-mode</module>
+      <module>a15-Iterator-pattern</module>
   </modules>
 
   <name>maven-parent</name>
