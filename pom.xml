@@ -24,6 +24,7 @@
     <module>a13-chain-responsibility-model</module>
       <module>a14-command-mode</module>
       <module>a15-Iterator-pattern</module>
+      <module>a16-intermediary-model</module>
   </modules>
 
   <name>maven-parent</name>
