@@ -25,6 +25,7 @@
       <module>a14-command-mode</module>
       <module>a15-Iterator-pattern</module>
       <module>a16-intermediary-model</module>
+      <module>a17-memo-model</module>
   </modules>
 
   <name>maven-parent</name>

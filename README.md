@@ -23,6 +23,7 @@
 - **[设计模式第十三节-责任链模式](https://xiaoxunyao.xyz/archives/design-patterns-thirteen)**
 - **[设计模式第十四节-命令模式](https://xiaoxunyao.xyz/archives/design-patterns-fourteen)**
 - **[设计模式第十五节-迭代器模式](https://xiaoxunyao.xyz/archives/design-patterns-fifteen)**
-- **[设计模式第十五节-中介者模式](https://xiaoxunyao.xyz/archives/design-patterns-sixteen)**
+- **[设计模式第十六节-中介者模式](https://xiaoxunyao.xyz/archives/design-patterns-sixteen)**
+- **[设计模式第十七节-备忘录模式](https://xiaoxunyao.xyz/archives/design-patterns-seventeen)**
 
 
