@@ -26,7 +26,7 @@
 - [x] **[设计模式第十六节-中介者模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a16-intermediary-model/md/16.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E5%85%AD%E8%8A%82-%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十七节-备忘录模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a17-memo-model/md/17.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%B8%83%E8%8A%82-%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十八节-观察者模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a18-observer-model/md/18.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E5%85%AB%E8%8A%82-%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)**
-- [ ] **[设计模式第十九节-状态模式]()**
+- [x] **[设计模式第十九节-状态模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a19-state-mode/md/19.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%8A%82-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)**
 - [ ] **[设计模式第二十节-策略模式]()**
 - [ ] **[设计模式第二十一节-模板模式]()**
 - [ ] **[设计模式第二十二节-访问者模式]()**
