@@ -27,6 +27,7 @@
       <module>a16-intermediary-model</module>
       <module>a17-memo-model</module>
       <module>a18-observer-model</module>
+      <module>a19-state-mode</module>
   </modules>
 
   <name>maven-parent</name>
