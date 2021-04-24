@@ -21,7 +21,7 @@
 ## 🍴行为模式
 
 - [x] **[设计模式第十三节-责任链模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a13-chain-responsibility-model/md/13.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82-%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md)**
-- [x] **[设计模式第十四节-命令模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a14-command-mode/code/14.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82-%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)**
+- [x] **[设计模式第十四节-命令模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a14-command-mode/md/14.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82-%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十五节-迭代器模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a15-Iterator-pattern/md/15.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%BA%94%E8%8A%82-%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十六节-中介者模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a16-intermediary-model/md/16.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E5%85%AD%E8%8A%82-%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十七节-备忘录模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a17-memo-model/md/17.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%B8%83%E8%8A%82-%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)**
