@@ -29,6 +29,6 @@
 - [x] **[设计模式第十九节-状态模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a19-state-mode/md/19.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%8A%82-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第二十节-策略模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a20-strategy-model/md/20.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E4%BA%8C%E5%8D%81%E8%8A%82-%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第二十一节-模板模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a21-template-mode/md/21.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E8%8A%82-%E6%A8%A1%E6%9D%BF%E6%A8%A1%E5%BC%8F.md)**
-- [ ] **[设计模式第二十二节-访问者模式]()**
+- [x] **[设计模式第二十二节-访问者模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a22-visitor-mode/md/22.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E8%8A%82-%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.md)**
 
 
