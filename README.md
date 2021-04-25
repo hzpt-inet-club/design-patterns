@@ -13,7 +13,7 @@
 - [x] **[设计模式第六节-适配器模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a6-adapter-pattern/md/6.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%85%AD%E8%8A%82-%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第七节-桥接模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a7-bridge-model/md/7.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E4%B8%83%E8%8A%82-%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第八节-组合模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a8-portfolio-model/md/8.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%85%AB%E8%8A%82-%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md)**
-- [x] **[设计模式第九节-装饰器模式](https://xiaoxunyao.xyz/archives/design-patterns-nine)**
+- [x] **[设计模式第九节-装饰器模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a9-decorator-mode/md/9.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E4%B9%9D%E8%8A%82-%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十节-外观模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a10-facade-pattern/md/10.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E8%8A%82-%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十一节-享元模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a11-flyweight-pattern/md/11.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82-%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)**
 - [x] **[设计模式第十二节-代理模式](https://github.com/xiaoxunyao/design-patterns/blob/master/a12-proxy-pattern/md/12.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%AC%AC%E5%8D%81%E4%BA%8C%E8%8A%82-%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)**
