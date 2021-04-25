@@ -30,6 +30,7 @@
       <module>a19-state-mode</module>
       <module>a20-strategy-model</module>
       <module>a21-template-mode</module>
+      <module>a22-visitor-mode</module>
   </modules>
 
   <name>maven-parent</name>
