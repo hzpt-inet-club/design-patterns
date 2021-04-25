@@ -28,6 +28,7 @@
       <module>a17-memo-model</module>
       <module>a18-observer-model</module>
       <module>a19-state-mode</module>
+      <module>a20-strategy-model</module>
   </modules>
 
   <name>maven-parent</name>
